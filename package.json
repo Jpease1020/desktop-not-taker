@@ -35,6 +35,6 @@
     "redux": "^3.4.0"
   },
   "dependencies": {
-    "selfup-rejs": "^1.0.17"
+    "selfup-rejs": "^1.0.18"
   }
 }
